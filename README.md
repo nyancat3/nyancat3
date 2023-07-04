@@ -3,7 +3,7 @@ nyancat3/nyancat3 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://komarev.com/ghpvc/?username=nyancat3&color=blueviolet&style=for-the-badge)
+[![Views counter](https://komarev.com/ghpvc/?username=nyancat3&color=blueviolet&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
 [![GitHub stats](https://github-readme-stats-silk-nine-63.vercel.app/api?username=nyancat3&theme=material-palenight&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Most used languages](https://github-readme-stats-silk-nine-63.vercel.app/api/top-langs/?username=nyancat3&theme=material-palenight&show_icons=true&hide_border=true&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
