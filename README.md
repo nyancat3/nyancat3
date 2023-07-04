@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nyancat3&theme=nightowl&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/nyancat3?theme=dark&ext=heatmap&hide=ranking,username)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nyancat3?theme=dark&ext=heatmap&hide=ranking,username&animation=false)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
